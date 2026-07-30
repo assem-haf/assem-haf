@@ -19,14 +19,14 @@
 
 ## 👋 About Me
 
-I'm Assem — I like taking things apart to see how they work, then rebuilding them better. My work spans:
+I'm Assem I like taking things apart to see how they work, then rebuilding them better. My work spans:
 
-- 🐍 **Python automation & tooling** — scripts, bots, and small utilities that remove repetitive work
-- 🌐 **Browser automation** — Selenium/Playwright-style workflows, scraping, and interaction scripting
-- 🔍 **Reverse engineering** — poking at binaries, protocols, and apps to understand internals
-- 🖥️ **Website development** — frontend to backend
-- 📱 **Android app development** — Kotlin/Java
-- 🗄️ **Backend & databases** — API design, Supabase/Postgres
+- 🐍 **Python automation & tooling** scripts, bots, and small utilities that remove repetitive work
+- 🌐 **Browser automation** Selenium/Playwright-style workflows, scraping, and interaction scripting
+- 🔍 **Reverse engineering** poking at binaries, protocols, and apps to understand internals
+- 🖥️ **Website development** frontend to backend
+- 📱 **Android app development** Kotlin/Java
+- 🗄️ **Backend & databases** API design, Supabase/Postgres
 
 <br/>
 
@@ -63,7 +63,7 @@ I'm Assem — I like taking things apart to see how they work, then rebuilding t
 
 ## 💭 Why I Build
 
-> I made one of my bots not only to help solve a real problem, but also to follow my hidden hobby of coding — finding solutions and understanding how things work under the hood. I learned a lot building it, and I hope it can be useful to others too. It's still humble code, so if you spot bugs or ways to improve it, I'd love to hear from you. Thanks for the love shared along the way. ❤️
+> I made one of my bots not only to help solve a real problem, but also to follow my hidden hobby of coding finding solutions and understanding how things work under the hood. I learned a lot building it, and I hope it can be useful to others too. It's still humble code, so if you spot bugs or ways to improve it, I'd love to hear from you. Thanks for the love shared along the way. ❤️
 
 <br/>
 
